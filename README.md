@@ -1,2 +1,2 @@
 # BattleTanks
-*the awesome 3d game made with UE4
+* the awesome 3d game made with UE4
